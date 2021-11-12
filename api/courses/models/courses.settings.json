@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "courses",
+  "info": {
+    "name": "Courses"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Courses": {
+      "type": "string"
+    }
+  }
+}
